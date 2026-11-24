@@ -1,0 +1,14 @@
+
+
+
+
+
+
+
+PRODUCT_NAME = notes_app
+
+
+PRODUCT_BUNDLE_IDENTIFIER = ru.study.notesApp
+
+
+PRODUCT_COPYRIGHT = Copyright © 2026 ru.study. All rights reserved.
